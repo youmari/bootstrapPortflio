@@ -36,11 +36,11 @@ Additional description about the project and its features.
 - Twitter: [@yf_omari](https://twitter.com/yf_omari)
 - LinkedIn: [LinkedIn](https://linkedin.com/yassine-omari-945114190/)
 
-👤 **Author2**
+👤 **AZEEM**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zemola](https://github.com/zemola)
+- Twitter: [@zemolat](https://twitter.com/zemolat)
+- LinkedIn: [olatunji Azeem](https://linkedin.com/in/olatunjiazeem)
 
 ## 🤝 Contributing
 
